@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiorgiGvasalia
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
